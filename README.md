@@ -68,5 +68,5 @@
 |Customized audit| |Skipped due to Cloud Pro| |https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4128&clear=RR,180&session=109724695097317|
 |Intelligent Content Applications| |Skipped due to Cloud Pro| |https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4009&clear=RR,180&session=109724695097317|
 |Intelligent APEX Apps| |Skipped due to Cloud Pro| |https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4255&clear=RR,180&session=109724695097317|
-|ASCVD Risk Calculator|`ASCVD_risk_calculator`| |https://oracleapex.com/ords/r/ascvd_risk_calculator/ascvd-risk-calculator/launch?session=112723314773328|https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=3818&clear=RR,180&session=109724695097317|
+|ASCVD Risk Calculator|`ASCVD_risk_calculator`|-|https://oracleapex.com/ords/r/ascvd_risk_calculator/ascvd-risk-calculator/launch?session=112723314773328|https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=3818&clear=RR,180&session=109724695097317|
 
